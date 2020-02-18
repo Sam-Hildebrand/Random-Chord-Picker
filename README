@@ -1,0 +1,16 @@
+ChordPicker_v.0.2
+(c) Samuel Hildebrand
+
+This is a simple terminal based program that selects a random chord
+(Ebm, G, Dm, etc) root of a chord ("A", "B", "C", etc.), accidental
+("", "b", or "#"), "tonal modifier" ("" or "m"), roman chord number
+("I", "ii", "iii", etc. or "i", "ii", "III" etc.) or item from user
+input and prints it in the terminal.
+
+
+All of my code in this folder is licensed under the MIT license.
+
+If you want to run the program from a shell by entering the phrase "ChordPkr"
+paste the command bellow in the bottom of your .bashrc (usually: ~/.bashrc).
+
+alias ChordPkr='./LOCATION/OF/FILE/ChordPicker.py'
