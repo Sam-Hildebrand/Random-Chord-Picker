@@ -7,6 +7,7 @@ This is a simple terminal based program that selects a random chord
 ("I", "ii", "iii", etc. or "i", "ii", "III" etc.) or item from user
 input and prints it in the terminal.
 
+To run as window, launch Graphical.py 
 
 All of my code in this folder is licensed under the MIT license.
 
